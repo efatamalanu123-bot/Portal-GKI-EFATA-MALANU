@@ -1,0 +1,6 @@
+{
+  "name": "GKI Efata Malanu",
+  "description": "Portal informasi jemaat, tata ibadah, jadwal rayon, warta jemaat, dan nyanyian rohani GKI Efata Malanu Klasis Sorong - Tanah Papua.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
